@@ -1,4 +1,4 @@
-This repo Leanr JavaScript code for a todo app. The app allows users to add, mark as completed, remove, and undo tasks. The app also uses local storage to store the data.
+This repo Learn JavaScript code for a todo app. The app allows users to add, mark as completed, remove, and undo tasks. The app also uses local storage to store the data.
 
 
 The code uses a custom event called RENDER_EVENT to notify the browser to render the todos. This allows the code to be more modular and reusable.
